@@ -1,0 +1,5 @@
+{
+  "name": "INOVA AI ASSISTANT",
+  "description": "A powerful voice and chat AI assistant powered by Gemini.",
+  "requestFramePermissions": ["microphone"]
+}
